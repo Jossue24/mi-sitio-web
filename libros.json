@@ -3,87 +3,84 @@
     "titulo": "Matemáticas Básicas",
     "categoria": "educativos",
     "imagen": "img/Matematicas_Basicas.png",
-    "descripcion": "Aprende lo básico de las matemáticas de forma sencilla.",
+    "descripcion": "Fundamentos esenciales de matemáticas.",
     "archivo": "pdf/Matematicas_Basicas.pdf"
   },
   {
     "titulo": "Introducción a la Programación",
     "categoria": "educativos",
     "imagen": "img/Introduccion a la programacion.png",
-    "descripcion": "Conceptos básicos sobre programación y algoritmos.",
+    "descripcion": "Primeros pasos en programación y algoritmos.",
     "archivo": "pdf/Introduccion a la programacion.pdf"
   },
   {
     "titulo": "Cómo mejorar el aprendizaje",
     "categoria": "educativos",
     "imagen": "img/aprendizaje.png",
-    "descripcion": "Técnicas y métodos para estudiar mejor.",
+    "descripcion": "Consejos prácticos para estudiar mejor.",
     "archivo": "pdf/aprendizaje.pdf"
   },
-
   {
     "titulo": "El Encubrimiento del Otro",
     "categoria": "historias",
     "imagen": "img/dussel.jpg",
-    "descripcion": "Relato histórico sobre la Revolución Mexicana.",
+    "descripcion": "Análisis filosófico sobre la colonización y el eurocentrismo.",
     "archivo": "pdf/dussel.pdf"
   },
   {
     "titulo": "Historia de la Vida Privada",
     "categoria": "historias",
     "imagen": "img/historia-de-la-vida-privada.jpg",
-    "descripcion": "Una mirada al Imperio Romano y su expansión.",
+    "descripcion": "Explora la vida cotidiana en distintas épocas históricas.",
     "archivo": "pdf/duby.pdf"
   },
   {
     "titulo": "Historia de la Sexualidad",
     "categoria": "historias",
     "imagen": "img/historia-de-la-sexualidad.jpg",
-    "descripcion": "Un recorrido por las civilizaciones antiguas.",
+    "descripcion": "Estudio sobre la sexualidad a lo largo de la historia.",
     "archivo": "pdf/historia-de-la-sexualidad.pdf"
   },
-
   {
     "titulo": "Hansel y Gretel",
     "categoria": "cuentos",
     "imagen": "img/hansel.png",
-    "descripcion": "Clásico cuento de los hermanos Grimm.",
+    "descripcion": "Aventura del clásico cuento de los hermanos Grimm.",
     "archivo": "pdf/Hansel_y_Gretel.pdf"
   },
   {
     "titulo": "Las aventuras de Pinocho",
     "categoria": "cuentos",
     "imagen": "img/Las_aventuras_de_Pinocho.png",
-    "descripcion": "El cuento clásico de una niña y el lobo.",
+    "descripcion": "Historia del muñeco que quería ser niño.",
     "archivo": "pdf/Las_aventuras_de_Pinocho.pdf"
   },
   {
     "titulo": "El Patito Feo",
     "categoria": "cuentos",
     "imagen": "img/El_patito_feo.png",
-    "descripcion": "La historia de tres cerditos constructores.",
+    "descripcion": "Un patito diferente busca su lugar en el mundo.",
     "archivo": "pdf/El_patito_feo.pdf"
   },
   {
     "titulo": "Frankenstein",
     "categoria": "ciencia",
     "imagen": "img/Frankenstein.png",
-    "descripcion": "Una aventura increíble por lugares desconocidos.",
+    "descripcion": "La creación de un monstruo inolvidable.",
     "archivo": "pdf/Frankenstein.pdf"
   },
   {
     "titulo": "Viaje al Centro de la Tierra",
     "categoria": "ciencia",
     "imagen": "img/Viaje_al_centro_de_la_Tierra.png",
-    "descripcion": "Una invasión alienígena a la Tierra.",
+    "descripcion": "Exploración de mundos subterráneos fascinantes.",
     "archivo": "pdf/Viaje_al_centro_de_la_Tierra.pdf"
   },
   {
     "titulo": "El Mundo Perdido",
     "categoria": "ciencia",
     "imagen": "img/El_mundo_perdido.png",
-    "descripcion": "Una invasión alienígena a la Tierra.",
+    "descripcion": "Aventura entre criaturas prehistóricas.",
     "archivo": "pdf/El_mundo_perdido.pdf"
   }
-
 ]
