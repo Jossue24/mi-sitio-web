@@ -182,3 +182,62 @@ footer {
     color: #1f3b77;
     transform: scale(1.1);
 }
+
+.footer {
+    background-color: #34495e;   /* fondo oscuro */
+    color: white;
+    padding: 40px 20px;
+}
+
+/* Contenedor principal */
+.footer-contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Cada sección */
+.footer-seccion {
+    flex: 1;
+    min-width: 250px;
+    margin: 10px;
+}
+
+/* Títulos */
+.footer-seccion h3 {
+    margin-bottom: 15px;
+}
+
+/* Texto */
+.footer-seccion p,
+.footer-seccion li {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Lista */
+.footer-seccion ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Links */
+.footer-seccion a {
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.footer-seccion a:hover {
+    text-decoration: underline;
+}
+
+.footer-copy {
+    background-color: #34495e;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 0;
+    font-size: 13px;
+    border-top: 1px solid rgba(255,255,255,0.3);
+}
